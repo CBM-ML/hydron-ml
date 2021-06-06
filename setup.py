@@ -9,7 +9,6 @@ setup(
   author_email='ali-imdad.khan@student.uni-tuebingen.de',
   license='MIT',
   packages=['ovas'],
-  install_requires=['numpy'],
-  description='This package is the empty will be used by us in CBM.',
+  install_requires=['numpy']
 )
 
