@@ -1,10 +1,11 @@
 from setuptools import setup
-setup(name='mypackage',
-version='0.1',
+setup(name='ovas',
+version='1.0',
 description='Testing installation of Package',
 url='#',
-author='auth',
-author_email='author@email.com',
+author='Ali Imdad Khan',
+author_email='ali-imdad.khan@student.uni-tuebingen.de',
 license='MIT',
-packages=['mypackage'],
-zip_safe=False)
+packages=['ovas'],
+install_requires=['numpy'],
+description='This package is the empty will be used by us in CBM.')
