@@ -9,6 +9,6 @@ setup(
   author_email='ali-imdad.khan@student.uni-tuebingen.de',
   license='MIT',
   packages=['ovas'],
-  install_requires=['numpy']
+  install_requires=['numpy','uproot']
 )
 
